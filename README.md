@@ -1,5 +1,8 @@
 # Retail Sales Project
 This project include Exploratory Data Analysis, Time Series Data Analysis, Forecasting, and Data Visualization for Retail Sales Data.
+
+![Preview](https://raw.githubusercontent.com/arifagus/retail-sales/main/resources/EDA.png)
+
 ## Exploratory Data Analysis
 * Take a look on a dataset info and describe it
 * Data Cleaning and Formatting (chceck null values and solve it, transform the data format)
